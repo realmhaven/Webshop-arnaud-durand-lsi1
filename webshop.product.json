@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "66460edbf3263a22391b9507"
+  },
+  "id": 1,
+  "name": "Germinal 1",
+  "description": "description germinal 1",
+  "price": 10
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b950c"
+  },
+  "id": 6,
+  "name": "Germinal 6",
+  "description": "description germinal 6",
+  "price": 60
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b9511"
+  },
+  "id": 11,
+  "name": "Germinal 11",
+  "description": "description germinal 11",
+  "price": 110
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b9509"
+  },
+  "id": 3,
+  "name": "Germinal 3",
+  "description": "description germinal 3",
+  "price": 30
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b950a"
+  },
+  "id": 4,
+  "name": "Germinal 4",
+  "description": "description germinal 4",
+  "price": 40
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b9510"
+  },
+  "id": 10,
+  "name": "Germinal 10",
+  "description": "description germinal 10",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b9508"
+  },
+  "id": 2,
+  "name": "Germinal 2",
+  "description": "description germinal 2",
+  "price": 20
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b950f"
+  },
+  "id": 9,
+  "name": "Germinal 9",
+  "description": "description germinal 9",
+  "price": 90
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b950b"
+  },
+  "id": 5,
+  "name": "Germinal 5",
+  "description": "description germinal 5",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b950d"
+  },
+  "id": 7,
+  "name": "Germinal 7",
+  "description": "description germinal 7",
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "66460edbf3263a22391b950e"
+  },
+  "id": 8,
+  "name": "Germinal 8",
+  "description": "description germinal 8",
+  "price": 80
+}]
