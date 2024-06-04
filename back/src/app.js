@@ -8,7 +8,7 @@ const cors = require("cors");
 app.use(cors());
 
 mongoose
-  .connect("mongodb+srv://abchate:3582728@cluster0.6n9mmw3.mongodb.net/webshop")
+  .connect("mongodb+srv://tester:su2vcTdpW182pPc8@arnauddurand.u7xvxgm.mongodb.net/webshop")
   .then(() => {
     console.log("MongoDB connected");
   })

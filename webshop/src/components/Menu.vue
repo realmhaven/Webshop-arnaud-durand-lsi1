@@ -12,7 +12,7 @@ export default {
   name: 'Menu',
   data() {
     return {
-      msg: 'Welcome to Your our Webshop'
+      msg: 'The ultimate Webshop'
     }
   }
 
@@ -20,7 +20,7 @@ export default {
 </script>
 <style>
 .navbar {
-  background-color: #333;
+  background-color: #1a4f84;
   color: white;
   padding: 10px;
   text-align: center;

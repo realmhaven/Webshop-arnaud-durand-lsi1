@@ -2,7 +2,6 @@
   <div class="IndexPage">
     <br>
     <div class="row">
-      <!-- Product list -->
       <div class="col-md-9">
         <div class="row gx-4 gy-4 row-cols-3">
           <div class="col" v-for="(product, id) in list_products" :key="id">
@@ -16,8 +15,6 @@
           </div>
         </div>
       </div>
-
-      <!-- Cart -->
       <div class="col-6 col-md-3">
         <div class="col">
           <div class="p-3 border bg-success">
@@ -34,7 +31,6 @@
             </div>
           </div>
         </div>
-        <!-- show total -->
         <div class="col">
           <div class="p-3 border bg-success">
             <h5>Total: {{ total_price }}</h5>
@@ -47,7 +43,6 @@
 </template>
 
 <script>
-// eslint-disable-next-line no-unused-vars
 import { Stock, Product, Cart } from '../manager';
 
 export default {
