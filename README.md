@@ -6,7 +6,7 @@ WebShop is a web application built with Vue.js and MongoDB. It allows users to b
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/WebShop.git
+    git clone https://github.com/realmhaven/Webshop-arnaud-durand-lsi1.git
     ```
 
 2. Navigate to the project root directory:
