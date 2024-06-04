@@ -1,29 +1,35 @@
-# webshop
+# WebShop
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
+WebShop is a web application built with Vue.js and MongoDB. It allows users to browse and purchase products online.
 
-## Recommended IDE Setup
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/WebShop.git
+    ```
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+2. Navigate to the project root directory:
+    ```bash
+    cd WebShop
+    ```
 
-## Customize configuration
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Usage
+1. Start the backend server:
+    ```bash
+    cd back
+    npm run start
+    ```
 
-## Project Setup
+2. Start the frontend development server:
+    ```bash
+    cd webshop
+    npm run dev
+    ```
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+3. Open your browser and visit the link given by the terminal to access the WebShop application.
