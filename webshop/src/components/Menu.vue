@@ -1,6 +1,6 @@
 <template>
   <div class="navbar">
-    <h1>{{msg}}</h1>
+    <h1>{{ msg }}</h1>
 
   </div>
 </template>
@@ -26,4 +26,3 @@ export default {
   text-align: center;
 }
 </style>
-
